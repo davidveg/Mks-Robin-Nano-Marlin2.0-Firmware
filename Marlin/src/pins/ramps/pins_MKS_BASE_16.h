@@ -50,7 +50,7 @@
   #define FILWIDTH_PIN                       -1
 #endif
 #ifndef FIL_RUNOUT_PIN
-  #define FIL_RUNOUT_PIN                     -1
+  #define FIL_RUNOUT_PIN                     4
 #endif
 #ifndef PS_ON_PIN
   #define PS_ON_PIN                          -1
